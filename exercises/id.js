@@ -7,6 +7,10 @@
  */
 
 // Your code :
+function id(val) { // Declare a function
+    return(val)
+  }
+   
 
 //* Begin of tests
 const assert = require('assert')
